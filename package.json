@@ -3,7 +3,7 @@
   "publisher": "cvitkovskiy",
   "displayName": "Frigus Nox",
   "description": "Cold muted theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "icon": "img/icon.png",
   "keywords": [
     "theme",
@@ -11,7 +11,7 @@
     "furash",
     "dark",
     "python theme"
-],
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Furash/frigus_nox_vscode"
