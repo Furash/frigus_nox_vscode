@@ -3,6 +3,9 @@
   "displayName": "Frigus Nox",
   "description": "Cold muted theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""},
   "engines": {
     "vscode": "^1.95.0"
   },
