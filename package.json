@@ -1,0 +1,21 @@
+{
+  "name": "frigus-nox",
+  "displayName": "Frigus Nox",
+  "description": "Cold muted theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frigus Nox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Frigus Nox-color-theme.json"
+      }
+    ]
+  }
+}
