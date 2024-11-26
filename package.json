@@ -1,11 +1,13 @@
 {
   "name": "frigus-nox",
+  "publisher": "cvitkovskiy",
   "displayName": "Frigus Nox",
   "description": "Cold muted theme",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Furash/frigus_nox_vscode"},
+    "url": "https://github.com/Furash/frigus_nox_vscode"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -20,5 +22,8 @@
         "path": "./themes/Frigus Nox-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "npm": "^10.9.1"
   }
 }
